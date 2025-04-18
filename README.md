@@ -23,11 +23,9 @@ https://blogs.kingston.ac.uk/retinal/chasedb1/
 
 The following illustrations present our comparative experiments and ablation studies.
 
-![Fig5](C:\MATLAB\DeepLearning\HREFNet\Fig5.png)
-
-![Fig6](C:\MATLAB\DeepLearning\HREFNet\Fig6.png)
-
-![Fig7](C:\MATLAB\DeepLearning\HREFNet\Fig7.png)
+![Fig5](images/Fig5.png)
+![Fig6](images/Fig6.png)
+![Fig7](images/Fig7.png)
 
 # Reference
 
