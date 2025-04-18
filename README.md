@@ -19,13 +19,15 @@ https://blogs.kingston.ac.uk/retinal/chasedb1/
 
 * * *
 
-## ### 🖼️ Visual Results
+# 🖼️ Visual Results
 
 The following illustrations present our comparative experiments and ablation studies.
 
-![Fig5](images/Fig5.png)
-![Fig6](images/Fig6.png)
-![Fig7](images/Fig7.png)
+![Fig5](Fig5.png)
+
+![Fig6](Fig6.png)
+
+![Fig7](Fig7.png)
 
 # Reference
 
